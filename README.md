@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\Callie Enfield\_
+**Author:** _Callie Enfield_
 
-**Due date:** _\<Friday, March 4, 2016\>_
+**Due date:** _\Friday, March 4, 2016\_
 
 ## Description
 
-_\This assignment involved problems for which code was to be written in order to calculate hot tea temperatures as well as the sum of powers.\_
+_This assignment involved problems for which code was to be written in order to calculate hot tea temperatures as well as the sum of powers._
 
 ## What I Learned from This
 
-_\I learned how to implement while loops into my code in order to obtain various recurring calculations.  I also learned how to have the user input data for an interactive calculation.\_
+_I learned how to implement while loops into my code in order to obtain various recurring calculations.  I also learned how to have the user input data for an interactive calculation._
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\Callie Enfield\_
+_Callie Enfield_
