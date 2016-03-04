@@ -4,7 +4,7 @@
 
 **Author:** _Callie Enfield_
 
-**Due date:** _\Friday, March 4, 2016\_
+**Due date:** _Friday, March 4, 2016_
 
 ## Description
 
